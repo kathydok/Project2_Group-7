@@ -1,4 +1,4 @@
-# Team 7 MIST Group Project 1 
+# Team 7 MIST Group Project 2
 ## Team Name - Group 7 47114
 ## Team Members: 
 - Aritra Mullick @amullickk
