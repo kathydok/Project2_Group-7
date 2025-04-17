@@ -1,5 +1,3 @@
-# Project2_Group-7
-
 # Team 7 MIST Group Project 1 
 ## Team Name - Group 7 47114
 ## Team Members: 
