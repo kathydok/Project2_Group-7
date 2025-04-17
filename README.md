@@ -8,6 +8,8 @@
 - Sanaya Mohani @sanayamohani
 
 ## Description of Dataset:
+Our database contails detalils of Shark Incidents occuring in California from 1950-2022
+
 
 ## Question 1:
 
@@ -16,4 +18,4 @@
 ## The manipulations applied to the data set as part of the analysis:
 
 ## Tableau packaged workbook
-- The packaged workbook containing the visualizations shown above is attached to this repository.
+The packaged workbook containing the visualizations shown above is attached to this repository.
