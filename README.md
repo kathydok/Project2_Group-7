@@ -7,4 +7,13 @@
 - Mary Grace Rudd @mgrudd 
 - Sanaya Mohani @sanayamohani
 
-  
+## Description of Dataset:
+
+## Question 1:
+
+## Question 2:
+
+## The manipulations applied to the data set as part of the analysis:
+
+## Tableau packaged workbook
+- The packaged workbook containing the visualizations shown above is attached to this repository.
