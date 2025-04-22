@@ -8,7 +8,7 @@
 - Sanaya Mohani @sanayamohani
 
 ## Description of Dataset:
-Our database contains detalils of Shark Incidents occuring in California from (1950-2022). We obtained our dataset 
+Our database contains detalils of Shark Incidents occuring in California from (1950-2022). We obtained our dataset through the [US Data Government Website](https://catalog.data.gov/dataset)
 
 
 ## Question 1:
