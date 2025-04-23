@@ -10,7 +10,7 @@
 ## Description of Dataset:
 Our database contains details of Shark Incidents occuring in California from (1950-2022) obtained through the [US Data Government Website](https://catalog.data.gov/dataset). Our database includes thirteen dimensions with various datatypes that specifies information regarding a specific shark incident and the details regarding the incident such as location, date, and severity of the injury. 
 
-**Dimensions Include**: Incident Number (which represents the specific incident id), Time, Country, Location, Mode (which represents the activity that was taking place), Injury, Depth, Species, Comment and Confirmed Source——which are all of the datatype String. Additionally other dimensions include Date that the incident occured (Date datatype), and Longtitude and Latitude (number/decimal datatype) which specify the exact coordinates of where the shark incident happened——while they are of numerical value they still behave like a dimension because combined defines a specific location and acts as a category rather than a measure. 
+**Dimensions Include**: Incident Number (which represents the specific incident id), Time, Country, Location, Mode (which represents the activity that was taking place), Injury, Depth, Species, Comment and Confirmed Source——which are all of the datatype String. Additionally other dimensions include Date that the incident occured (Date datatype), and Longtitude and Latitude (number/decimal datatype) which specify the exact coordinates of where the shark incident happened——while they are of numerical value they still behave like a dimension because when combined those values point to a specific location and acts as a category rather than a measure. 
 
 
 
