@@ -18,6 +18,9 @@ Our database contains details of Shark Incidents occuring in California from (19
 ## Question 1:
 **Which activities are associated with the highest number of shark incidents over the years? For the activities with the most shark incidents, how have their incident trends changed over time?**
 
+**Importance:**
+This question is important because it helps to understand which activities are most associated with shark incidents, offering insights into the behaviors and conditions that may lead to these dangerous encounters. By identifying the activities with the highest number of shark incidents, authorities, ocean safety organizations, and even recreational enthusiasts can gain valuable information on where more safety measures or awareness campaigns may be needed. The second part of the question, which looks at how incident trends change over time, helps to identify whether certain activities are becoming riskier or safer over the years. For example, increased incidents in certain activities over time could indicate changing patterns of behavior or environmental factors. Understanding these trends can inform public safety policies, resource allocation, and risk management strategies. This question is tied to the dataset because it includes historical shark incident data across various activities, providing the necessary information to track these patterns and analyze trends over time.
+
 ## Question 2:
 **What is the geographical distribution of shark incidents along the California coast, and how do the severity levels (fatal, major, minor) vary in these locations?**
 
