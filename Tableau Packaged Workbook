@@ -1,8 +1,0 @@
-# Add the Tableau file (Group7 workbook)
-git add Group7.twbx  # or .twb depending on the file
-
-# Commit the file
-git commit -m "Add Group7 Tableau workbook"
-
-# Push the changes to GitHub
-git push origin main
