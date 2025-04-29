@@ -16,7 +16,7 @@ Our database contains details of Shark Incidents occuring in California from (19
 
 
 ## Question 1:
-**Which activities are associated with the highest number of shark incidents over the years? "For the activities with the most shark incidents, how have their incident trends changed over time?"**
+**Which activities are associated with the highest number of shark incidents over the years? For the activities with the most shark incidents, how have their incident trends changed over time?**
 
 ## Question 2:
 
