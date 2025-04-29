@@ -19,6 +19,7 @@ Our database contains details of Shark Incidents occuring in California from (19
 **Which activities are associated with the highest number of shark incidents over the years? For the activities with the most shark incidents, how have their incident trends changed over time?**
 
 ## Question 2:
+**How are the severity levels of shark incidents geographically distributed along the California coast?**
 
 ## The manipulations applied to the data set as part of the analysis:
 
